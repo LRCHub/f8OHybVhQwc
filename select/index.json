@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Knockin' On Heaven's Door",
+  "base_artist": "Guns N' Roses",
+  "createdAt": "2026-03-13T00:28:00.346577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Babyface",
+      "has_synced": true,
+      "path": "select/01_Knockin'_On_Heaven's_Door_Babyface.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "GunsNRosesVEVO",
+      "has_synced": true,
+      "path": "select/02_Knockin'_On_Heaven's_Door_GunsNRosesVEVO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/03_Knockin'_On_Heaven's_Door_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Guns'n'roses",
+      "has_synced": true,
+      "path": "select/04_Knockin'_On_Heaven's_Door_Guns'n'roses.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Covers",
+      "has_synced": true,
+      "path": "select/05_Knockin'_On_Heaven's_Door_Covers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Cyrus",
+      "has_synced": true,
+      "path": "select/06_Knockin'_On_Heaven's_Door_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/07_Knockin'_On_Heaven's_Door_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Knockin' on heavens door",
+      "artist": "Guns'n'Roses",
+      "has_synced": true,
+      "path": "select/08_Knockin'_on_heavens_door_Guns'n'Roses.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Knockin' on Heavens Door",
+      "artist": "Wicket",
+      "has_synced": true,
+      "path": "select/09_Knockin'_on_Heavens_Door_Wicket.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Knockin On Heavens Door",
+      "artist": "Selig",
+      "has_synced": false,
+      "path": "select/10_Knockin_On_Heavens_Door_Selig.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Knockin' on Heaven's Door",
+      "artist": "Bryan Ferry",
+      "has_synced": true,
+      "path": "select/11_Knockin'_on_Heaven's_Door_Bryan_Ferry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Knockin' on Heaven's Door",
+      "artist": "Eric CLapton",
+      "has_synced": true,
+      "path": "select/12_Knockin'_on_Heaven's_Door_Eric_CLapton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/13_Knockin'_On_Heaven's_Door_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/14_Knockin'_On_Heaven's_Door_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven'S Door",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/15_Knockin'_On_Heaven'S_Door_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Knockin' On Heavens Door",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/16_Knockin'_On_Heavens_Door_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Knockin' on Heaven's Door",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/17_Knockin'_on_Heaven's_Door_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/18_Knockin'_On_Heaven's_Door_Eric_Clapton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "GUNS N' ROSES",
+      "has_synced": false,
+      "path": "select/pl_01_Knockin'_On_Heaven's_Door_GUNS_N'_ROSES.txt"
+    }
+  ]
+}
